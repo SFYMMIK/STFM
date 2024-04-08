@@ -17,3 +17,5 @@ https://streamable.com/e/gt6rlc
 
 # Why did i create this program?
 because i once ran into some trouble of making two .txt files into one and because it was like 480 lines of definitions of some sort doing it manually would be long so i made this program to make this process faster so if you have some files to merge together this program will help you, also you are more than welcome to get this program and modify it just like you want it to be!
+
+# Also this program doesnt have and will not have a lincense so you do not have to worry about any limitations of use
